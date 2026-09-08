@@ -1,6 +1,6 @@
 # Timothy Chen
 
-Math-CS at UC San Diego. I build with LLMs: multi-model systems, on-device inference, and the apps around them. Founder of LatinXTech, a tech education nonprofit running programs in 14 schools for 1,000+ students across the Bay Area.
+Math-CS at UC San Diego. I build with LLMs: multi-model systems and the apps around them. Founder of LatinXTech, a tech education nonprofit running programs in 14 schools for 1,000+ students across the Bay Area.
 
 ## Projects
 
